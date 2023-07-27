@@ -1,1 +1,1 @@
-# NLP-Techniques
+# NLP
