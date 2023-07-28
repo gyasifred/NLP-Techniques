@@ -9,4 +9,3 @@ This repositories contains code implementations of the following NLP techniques
 - Spam Detection
 - Text Classification
 - CBOW
-- Knowledge Graphs
