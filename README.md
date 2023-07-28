@@ -10,3 +10,8 @@ This repositories contains code implementations of the following NLP techniques
 - Text Classification
 - CBOW
 - Relationship Exraction
+
+
+
+
+![example_knowledge_graph](knowlege_graph.png)
