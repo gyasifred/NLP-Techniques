@@ -3,7 +3,7 @@ This repositories contains code implementations of the following NLP techniques
 - Count Vectorizer
 - word Embedings
 - Part of Speech Tagging
-- Topic Mdoelling
+- Topic Modelling
 - Latent Semantic Analysis
 - Named Entity Recognition
 - Spam Detection
