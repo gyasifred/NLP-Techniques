@@ -12,6 +12,6 @@ This repositories contains code implementations of the following NLP techniques
 - Relationship Exraction
 
 
-
+![example_ner](sample_ner.jpg)
 
 ![example_knowledge_graph](knowlege_graph.png)
