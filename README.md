@@ -30,7 +30,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-This repository is maintained by [Your Name]. You can contact me at [your@email.com].
+This repository is maintained by Frederick Gyasi. You can contact me at gyasifred@gmail.com.
 
 
 
